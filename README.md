@@ -1,21 +1,69 @@
 
-<h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
+<div align="center">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif" align="center" style="width: 20%" />
+</div>  
+
+### <div align="center">I'm Nadia Rajpoot, a Frontend Developer 👨‍💻 coding since 2021 🚀</div>  
+*<div align="center">Experienced software engineer skilled in both front-end development, with expertise in modern tools and technologies.Committed to bringing creative projects to life and software solutions. </div>*  
+  
+
+<br/> 
+
+## My Skill Set  
+<table align="center"><tr><td valign="top" width="100%">
+
+### Frontend and UI  
+<div align="center" width="100%" >  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />   
+</div>
+
+### My Projects 
+<article>
+      <div>
+  <div>
+<table>
+  <tbody>
+    <tr>
+    <td width="33%" valign="top">
+      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"></a>Wokeats - Food Ordering systemt</h3>
+        <p><a href="https://waqar-ahmed51.github.io/React-Project-e-commerce-app-estore.com/" rel="nofollow" target="_blank">Visit Site</a></p>
+        <br>
+        <a href="https://waqar-ahmed51.github.io/React-Project-e-commerce-app-estore.com/" rel="nofollow" target="_blank">
+  <div style="width: 50%" >        <img width="500" alt="image" src="https://github.com/user-attachments/assets/09c4a073-5d38-4960-8124-36545dbef506">
 
 
+  </div>
 
-<h3 align="center">A passionate Blockchain developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React.js**
+  
+  </tr>
+</tbody></table>
+</article>
+      </div>
+  </div>
 
-- 👯 I’m looking to collaborate on **Open source React.js Project**
 
-- 📫 How to reach me **nadiarajpoot44@gmail.com**
+## Connect with me  
+<div align="center">
+<a href="https://github.com/waqar-ahmed51" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/waqar.ahmed51" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/waqar-ahmed-00859b19a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UC_zNwN4VqwQ7zRpu8_f7bNg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/nadia rajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia rajpoot" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>  
