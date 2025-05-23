@@ -1,69 +1,74 @@
+<h1 align="center">Hi 👋, I'm Nadia Rajpoot</h1>
+<h3 align="center">Full-Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
-<div align="center">
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681562508365/k96z0x3Vj.gif" align="center" style="width: 20%" />
-</div>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI%2FUX;Open+to+Collaboration+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-### <div align="center">I'm Nadia Rajpoot, a Frontend Developer 👨‍💻 coding since 2021 🚀</div>  
-*<div align="center">Experienced software engineer skilled in both front-end development, with expertise in modern tools and technologies.Committed to bringing creative projects to life and software solutions. </div>*  
-  
+---
 
-<br/> 
+## 🛠️ Tech Stack
 
-## My Skill Set  
-<table align="center"><tr><td valign="top" width="100%">
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Frontend and UI  
-<div align="center" width="100%" >  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />   
-</div>
+---
 
-### My Projects 
-<article>
-      <div>
-  <div>
-<table>
-  <tbody>
-    <tr>
-    <td width="33%" valign="top">
-      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"></a>Wokeats - Food Ordering systemt</h3>
-        <p><a href="https://waqar-ahmed51.github.io/React-Project-e-commerce-app-estore.com/" rel="nofollow" target="_blank">Visit Site</a></p>
-        <br>
-        <a href="https://waqar-ahmed51.github.io/React-Project-e-commerce-app-estore.com/" rel="nofollow" target="_blank">
-  <div style="width: 50%" >        <img width="500" alt="image" src="https://github.com/user-attachments/assets/09c4a073-5d38-4960-8124-36545dbef506">
+## 🌟 Featured Projects
+
+### 🍕 WokEats — Swiggy Clone (MERN)
+
+A real-time food ordering platform using Swiggy’s live data. Built with **React.js**, **Tailwind CSS**, and **Express.js**.
+
+<p align="center">
+  <img width="960" alt="image" src="https://github.com/user-attachments/assets/7109fd8b-75b6-4bb9-8d9e-4d80e8afce60" width="80%" />
+
+ 
+</p>
+
+🔗 [Live Demo](https://wokeats.vercel.app/) | 🛠 [Code](https://github.com/NadiaRajpoot/Namaste-reacts)
+
+---
+
+### 💘 DevTinder — Developer Matchmaking App
+
+A fun and interactive app to help developers connect, collaborate, and build together. Swipe right to code together! Built using **MERN**, **Socket.IO**, and **Tailwind CSS**.
+
+<p align="center">
+  <img width="945" alt="image" src="https://github.com/user-attachments/assets/1f204a70-e47c-48e8-800c-b33204702bbd" width="80%"  />
+
+</p>
+ 
+📝 [More Info](http://16.171.234.113/) | 🛠 [Code](https://github.com/NadiaRajpoot/DevTinder)
+
+---
+
+### 🛍️ Bytewise Workspaces
+
+A collaborative workspace portal built during the Bytewise Fellowship using **Next.js**, **React-Slick**, and **App Router**.
+
+<p align="center">
+  <img width="950" alt="image" src="https://github.com/user-attachments/assets/9e8d81bf-3c2e-43e0-8a1e-be476d5ed5b8"  width="80%" />
+
+</p>
+
+🔗 [Live Site](https://bytewise-workspaces.vercel.app) | 🛠 [Code](https://github.com/NadiaRajpoot/bytewise-workspaces)
+
+---
 
 
-  </div>
+## 📫 Let's Connect
 
 
-  
-  </tr>
-</tbody></table>
-</article>
-      </div>
-  </div>
+- 💼 LinkedIn: [linkedin.com/in/nadia-rajpoot](www.linkedin.com/in/nadia-rajpoot)  
+- 📩 Email: nadiarajpoot44@gmail.com
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/waqar-ahmed51" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/waqar.ahmed51" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/waqar-ahmed-00859b19a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UC_zNwN4VqwQ7zRpu8_f7bNg" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+_“Building one line of code at a time to create impactful experiences.”_
